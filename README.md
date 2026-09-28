@@ -1,4 +1,4 @@
-# inet4031
+# INET4031
 
 Santiago Caldas Quiroga, INET 4031 (001), Fall 2026.
 
