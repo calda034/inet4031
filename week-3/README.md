@@ -18,3 +18,11 @@ Or visit http://localhost:8080 in a browser.
 
 ## Known limitation
 Data does not persist across docker rm, no volume is configured yet.
+
+## Reach it
+
+Inside the VM: http://127.0.0.1:8080
+
+From the Mac: http://192.168.64.10:8080
+
+`localhost:8080` on the Mac reaches the Mac, not the VM. If the Mac address stops working, run `hostname -I` in the VM and use the `192.168.64.x` address with port `8080`.
